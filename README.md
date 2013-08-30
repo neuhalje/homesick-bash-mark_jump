@@ -1,6 +1,6 @@
-Plugin for https://github.com/neuhalje/homesick-bash
-
-Based on http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
+* Plugin for https://github.com/neuhalje/homesick-bash
+* Based on http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
+* Install with ```homesick clone git@github.com:neuhalje/homesick-bash-mark_jump.git```
 
 ```
 $ cd ~/some/very/deep/often-used/directory
