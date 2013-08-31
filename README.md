@@ -1,11 +1,13 @@
-h1. mark/jump for bash
+mark/jump for bash
+===================
 
 * Plugin for https://github.com/neuhalje/homesick-bash (install for autmoatic acitivation)
 * Install with ```homesick clone git@github.com:neuhalje/homesick-bash-mark_jump.git```
 * Based on http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
 * supported OS: MacOS, Ubuntu. Others untested.
 
-h1. Usage
+Usage
+=======
 
 ```
 $ cd ~/some/very/deep/often-used/directory
@@ -34,7 +36,8 @@ foo     -> /usr/bin/foo/bar
 ```
 
 
-h1.Install
+Install
+========
 
 ```
 homesick clone git@github.com:neuhalje/homesick-bash-mark_jump.git
